@@ -1,0 +1,4 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "/Users/kelvin-zhao/Development/projects_2026/20260807_#daq#nrf54_develop_stack/Library.kicad_blocks") (options "") (descr ""))
+)
