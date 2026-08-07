@@ -634,7 +634,7 @@
         "uuid": "8f61a2c4-0847-49da-a11e-89393006b40d"
       }
     ],
-    "used_designators": "#PWR1-42,J1-12,H1-12,U1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -645,10 +645,6 @@
     [
       "84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd",
       "nrf54l15-dk"
-    ],
-    [
-      "a0027f2f-e483-4d38-964c-a2b486088825",
-      "nrf54l15-dk-1"
     ]
   ],
   "text_variables": {},

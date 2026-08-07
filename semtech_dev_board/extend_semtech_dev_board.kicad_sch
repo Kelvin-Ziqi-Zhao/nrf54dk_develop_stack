@@ -5,11 +5,6 @@
 	(uuid "8f61a2c4-0847-49da-a11e-89393006b40d")
 	(paper "A4")
 	(lib_symbols)
-	(group "nrf54l15-dk"
-		(uuid "df644464-23a9-48b0-96f8-1dbef631a1f8")
-		(lib_id "Library:nrf54l15-dk")
-		(members "a0027f2f-e483-4d38-964c-a2b486088825")
-	)
 	(sheet
 		(at 38.31 33.34)
 		(size 29 36)
@@ -52,52 +47,6 @@
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 139 59)
-		(size 28 47)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "a0027f2f-e483-4d38-964c-a2b486088825")
-		(property "Sheetname" "nrf54l15-dk-1"
-			(at 139 58.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "nrf54l15-dk.kicad_sch"
-			(at 139 106.5846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "extend_semtech_dev_board"
-				(path "/8f61a2c4-0847-49da-a11e-89393006b40d"
-					(page "3")
 				)
 			)
 		)

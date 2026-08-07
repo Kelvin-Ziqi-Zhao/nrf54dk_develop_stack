@@ -2129,7 +2129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "005dd225-953f-49e3-a90a-0465c1495665")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR013"
 			(at 83.82 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2190,7 +2190,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR034")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -2207,7 +2207,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00b5c12b-a939-40b2-ab41-afc30249af07")
-		(property "Reference" "J6"
+		(property "Reference" "J3"
 			(at 68.58 107.9499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2277,7 +2277,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J6")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2295,7 +2295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02018571-853a-42e4-86db-c830bb4c3c85")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR018"
 			(at 99.06 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2356,7 +2356,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR039")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -2374,7 +2374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05813056-ca6a-4156-aa7d-52621f0e4215")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR03"
 			(at 63.5 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2434,7 +2434,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR021")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2452,7 +2452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ccd273e-9e1d-4f9f-a856-684dedaa9415")
-		(property "Reference" "H8"
+		(property "Reference" "H2"
 			(at 125.73 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2510,7 +2510,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H8")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -2528,7 +2528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d51c24d-5edb-4b89-86da-9772dc28176a")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR014"
 			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -2589,7 +2589,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR035")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -2607,7 +2607,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1219cb6d-82d8-424e-8b8d-2007f0e61eb0")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR015"
 			(at 83.82 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -2668,7 +2668,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR036")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -2761,7 +2761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31fd8b28-5a75-4ad6-8aef-0c0404abc92d")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR010"
 			(at 73.66 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -2822,7 +2822,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR031")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -2840,7 +2840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34358ca9-f56a-4b3a-aaaf-70505fea122b")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR021"
 			(at 109.22 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -2901,7 +2901,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR042")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -2919,7 +2919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35852218-b2f5-4f22-bf4e-15811455e1ad")
-		(property "Reference" "H12"
+		(property "Reference" "H6"
 			(at 125.73 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2977,7 +2977,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H12")
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -2995,7 +2995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41b1f3b0-2f14-4ac5-ad18-255c605b5f7b")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR09"
 			(at 66.04 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3055,7 +3055,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR030")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -3073,7 +3073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42447804-90e0-425b-be03-298131485813")
-		(property "Reference" "H10"
+		(property "Reference" "H4"
 			(at 125.73 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3131,7 +3131,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H10")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -3149,7 +3149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4be4e469-374a-4fc7-bb7a-3789b26e201a")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR05"
 			(at 63.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3209,7 +3209,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR026")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3227,7 +3227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4db749a6-8d10-430b-afd8-0ef51269214e")
-		(property "Reference" "H9"
+		(property "Reference" "H3"
 			(at 125.73 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3285,7 +3285,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H9")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -3303,7 +3303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5146034f-5c5e-418e-b4e7-ecee5c1bb0ff")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR012"
 			(at 73.66 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3364,7 +3364,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR033")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -3382,7 +3382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55beb61e-f90b-49d5-b3ca-ef0946f712ee")
-		(property "Reference" "H11"
+		(property "Reference" "H5"
 			(at 125.73 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3440,7 +3440,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H11")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -3458,7 +3458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e45fb7d-891e-41e6-b3a5-ec124028f7a6")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR06"
 			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3518,7 +3518,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR027")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3536,7 +3536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ebfa2cc-c692-4074-8611-79c44bdad548")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR07"
 			(at 66.04 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3596,7 +3596,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR028")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -3614,7 +3614,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "74b5f2ea-cd80-4841-9898-2823692ed67a")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 68.58 46.9899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3684,7 +3684,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -3702,7 +3702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79801490-6a48-48f3-9e9d-daedf0b1aa06")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR017"
 			(at 109.22 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3763,7 +3763,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR038")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -3780,7 +3780,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8889bd11-1b2a-4e34-878d-4595136fafec")
-		(property "Reference" "J2"
+		(property "Reference" "J5"
 			(at 77.47 77.4699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3898,7 +3898,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J2")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3916,7 +3916,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b48f7ac-968a-4f28-86e9-0093a8484c19")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR01"
 			(at 63.5 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3976,7 +3976,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR010")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3994,7 +3994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c2b0db5-03bf-4200-a320-209295f1224f")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR016"
 			(at 99.06 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4055,7 +4055,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR037")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4073,7 +4073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8cc928ea-b6ff-493b-96db-f73accd11809")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR08"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -4133,7 +4133,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR029")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -4151,7 +4151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92044738-20ea-45d3-b2df-c2a3b6f62d3c")
-		(property "Reference" "H7"
+		(property "Reference" "H1"
 			(at 125.73 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4209,7 +4209,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "H7")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -4226,7 +4226,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9510e969-712d-4d0e-a0f9-6feb4c5ad036")
-		(property "Reference" "J1"
+		(property "Reference" "J4"
 			(at 77.47 46.9899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4344,7 +4344,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J1")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4361,7 +4361,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cba2e59-1c28-4e90-b61c-8a5596079ff0")
-		(property "Reference" "J5"
+		(property "Reference" "J2"
 			(at 68.58 77.4699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4431,7 +4431,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J5")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4449,7 +4449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa613ccd-b095-4afa-b538-f1208215024d")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR019"
 			(at 109.22 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4510,7 +4510,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR040")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -4528,7 +4528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b22233b8-358d-47c2-94f8-2f8fde36a59f")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR02"
 			(at 63.5 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4588,7 +4588,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR011")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -4606,7 +4606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8e9f814-2c11-4493-bfbe-f40c8bcc7371")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR04"
 			(at 63.5 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4666,7 +4666,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR025")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -4683,7 +4683,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc567cd0-9d81-4893-aa52-d74ca043ae44")
-		(property "Reference" "J3"
+		(property "Reference" "J6"
 			(at 77.47 107.9499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4801,7 +4801,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "J3")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4819,7 +4819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c928bade-ab20-4020-94da-2673f690a846")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR011"
 			(at 83.82 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4880,7 +4880,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR032")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -4898,7 +4898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa8da400-2304-4ba1-a84d-9147ab94395f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR020"
 			(at 99.06 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4959,7 +4959,7 @@
 		(instances
 			(project "extend_semtech_dev_board"
 				(path "/8f61a2c4-0847-49da-a11e-89393006b40d/84fd0b55-3b2f-4f2c-ad2d-43b97430d5bd"
-					(reference "#PWR041")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
